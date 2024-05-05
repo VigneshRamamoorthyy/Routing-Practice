@@ -1,0 +1,16 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-img {
+  width: 80px;
+}
+
+.app-content {
+  color: #6d396b;
+  font-family: Roboto;
+  font-size: 30px;
+}

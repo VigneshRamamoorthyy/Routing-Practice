@@ -1,0 +1,36 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 90%;
+}
+
+.logo-title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.nav-item {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  width: 150px;
+
+  padding-left: 0px;
+}
